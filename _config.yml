@@ -1,12 +1,12 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 鲨鱼辣椒
+subtitle: 安全博客
+description: 欢迎来到鲨鱼辣椒的安全博客~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: Security
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+avatarDesc: 移动安全&win安全&linux安全
+url: #"http://baixin.io"
 
 # Comment
 comment:
@@ -16,24 +16,24 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: #5366874726 
+    github: #leopardpan
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: #2ada30d8d0f7
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: 37211997@protonMail.com
 
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
 baidu:
-    id: xxxx  
+    id: 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: xxxx  
+    id:  
     host: auto  
 
 
