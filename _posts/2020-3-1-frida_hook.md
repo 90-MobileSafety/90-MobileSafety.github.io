@@ -4,9 +4,10 @@ title: "frida hook"
 date: 2020-03-1
 description: "frida"
 tag: Android安全
+---
 
 一、frida简介
-frida是一款基于python + java 的hook框架，可运行在androidioslinuxwinosx等各平台，主要使用动态二进制插桩技术。本期“安仔课堂”，ISEC实验室为大家详解frida，认真读完这篇文章会让你在逆向工作中效率成倍提升哦！
+frida是一款基于python + java 的hook框架，可运行在androidioslinuxwinosx等各平台，主要使用动态二进制插桩技术
 
 1、插桩技术
 插桩技术是指将额外的代码注入程序中以收集运行时的信息，可分为两种：
