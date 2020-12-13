@@ -3,10 +3,8 @@ layout: page
 title: 关于我 
 ---
 
-一个对安全行业有着追求的人
-<p>
-
-
-
-{% include comments.html %}
+安全学习员:
+  病毒分析,移动安全,
+    暂时只想到这些
+< p >
 
